@@ -1,7 +1,7 @@
 {
     "publisher": "yu-os",
-    "name": "color-theme",
-    "displayName": "color-theme",
+    "name": "yu-os-theme",
+    "displayName": "yu-os-theme",
     "description": "",
     "version": "0.0.1",
     "license": "MIT",
@@ -16,7 +16,7 @@
             {
                 "label": "yu-os-theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/yu-os-theme-color-theme.json"
+                "path": "./themes/yu-os-theme.json"
             }
         ]
     }
