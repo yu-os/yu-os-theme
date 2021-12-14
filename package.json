@@ -1,0 +1,23 @@
+{
+    "publisher": "yu-os",
+    "name": "color-theme",
+    "displayName": "color-theme",
+    "description": "",
+    "version": "0.0.1",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "yu-os-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/yu-os-theme-color-theme.json"
+            }
+        ]
+    }
+}
