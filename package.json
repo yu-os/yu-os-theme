@@ -8,15 +8,17 @@
     "engines": {
         "vscode": "^1.62.0"
     },
+    "icon": "./image/theme.png",
     "categories": [
         "Themes"
     ],
+    "repository": {"type": "git","url": "https://github.com/yu-os/yu-os-theme"},
     "contributes": {
         "themes": [
             {
                 "label": "yu-os-theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/yu-os-theme.json"
+                "path": "./themes/yu-os-color-theme.json"
             }
         ]
     }
