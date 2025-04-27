@@ -94,6 +94,15 @@
       }
     },
     {
+      "scope": [
+        "constant.numeric",
+        "keyword.other.unit.hexadecimal"
+      ],
+      "settings": {
+        "foreground": "#FF0000"
+      }
+    },
+    {
       "scope": "constant.regexp",
       "settings": {
         "foreground": "#646695"
@@ -587,12 +596,6 @@
       "scope": "entity.name.label",
       "settings": {
         "foreground": "#C8C8C8"
-      }
-    },
-    {
-      "scope": "constant.numeric",
-      "settings": {
-        "foreground": "#FF0000"
       }
     },
     {
