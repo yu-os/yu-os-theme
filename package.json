@@ -3,7 +3,7 @@
     "name": "yu-os-theme",
     "displayName": "yu-os-theme",
     "description": "",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "license": "MIT",
     "engines": {
         "vscode": "^1.62.0"
